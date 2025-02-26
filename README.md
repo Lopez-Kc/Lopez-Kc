@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - 🖥️ I'm passionate about new technologies
+ - 📒 I like to learn new skills to implement them in my future projects
+ - 🌱 I’m currently learning with help from docs.github.com
+
+🎯 _“Technology allows us to build the future” ..._
